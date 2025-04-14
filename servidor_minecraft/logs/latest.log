@@ -45,3 +45,10 @@
 [17:13:24] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
 [17:13:27] [Server thread/INFO]: ZZRoyers_V2 fell from a high place
 [17:13:40] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[17:26:53] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! -9.713895096951603,0.0,-4.837287268107187
+[17:26:55] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! -6.263730217732984,0.0,-8.388855568745432
+[17:28:41] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! -5.49702175664936,0.0,9.38527690835042
+[17:30:22] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Creative Mode]
+[17:30:36] [Server thread/INFO]: ZZRoyers_V2 lost connection: Disconnected
+[17:30:36] [Server thread/INFO]: ZZRoyers_V2 left the game
+[17:31:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
