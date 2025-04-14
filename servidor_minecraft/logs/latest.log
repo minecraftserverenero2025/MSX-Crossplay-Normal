@@ -29,3 +29,15 @@
 [18:58:27] [Server thread/INFO]: Time elapsed: 6131 ms
 [18:58:27] [Server thread/INFO]: Done (6.514s)! For help, type "help"
 [18:59:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:09:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:09:56] [Server thread/INFO]: playit<--[HERE]
+[19:10:54] [Server thread/INFO]: ZZRoyers_V2[/127.28.150.149:36801] logged in with entity id 16 at (185.50326191556871, 73.0, -61.4962279898735)
+[19:10:54] [Server thread/INFO]: ZZRoyers_V2 joined the game
+[19:11:50] [Server thread/INFO]: Made ZZRoyers_V2 a server operator
+[19:12:02] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Creative Mode]
+[19:12:53] [Server thread/INFO]: ZZRoyers_V2 has made the advancement [Monster Hunter]
+[19:15:51] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! 3.4016690982406033,0.0,9.739813219130355
+[19:15:54] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! -10.000315317988125,0.0,0.08132729027630603
+[19:16:45] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[19:16:55] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[19:16:58] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Creative Mode]

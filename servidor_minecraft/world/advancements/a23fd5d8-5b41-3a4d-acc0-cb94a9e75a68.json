@@ -1,13 +1,21 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-04-14 13:20:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-14 13:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-14 13:20:29 +0000",
+      "minecraft:meadow": "2025-04-14 13:18:39 +0000",
+      "minecraft:plains": "2025-04-14 13:20:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-14 13:20:28 +0000"
     },
     "done": true
   },
@@ -22,14 +30,6 @@
       "in_water": "2025-04-14 13:20:28 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-04-14 13:20:29 +0000",
-      "minecraft:meadow": "2025-04-14 13:18:39 +0000",
-      "minecraft:plains": "2025-04-14 13:20:18 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
@@ -64,6 +64,36 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-14 13:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-14 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-04-14 19:12:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-04-14 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-14 19:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-14 19:14:58 +0000"
     },
     "done": true
   },
