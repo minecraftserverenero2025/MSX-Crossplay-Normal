@@ -41,3 +41,35 @@
 [19:16:45] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
 [19:16:55] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
 [19:16:58] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Creative Mode]
+[19:19:13] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! 2.018651198294947,0.06651902108959007,-10.048177846837604
+[19:19:15] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! 9.96159305342752,2.078246482582088,2.9077120658953106
+[19:20:35] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[19:25:16] [Server thread/WARN]: ZZRoyers_V2 moved too quickly! 7.357096330722442,0.0,-8.276784470856626
+[19:25:33] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[19:25:35] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[19:25:40] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Adventure Mode]
+[19:25:45] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[19:27:33] [Server thread/INFO]: ZZRoyers_V2 has made the advancement [Minecraft: Trial(s) Edition]
+[19:29:01] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[19:29:03] [Server thread/INFO]: ZZRoyers_V2 fell from a high place
+[19:31:19] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Creative Mode]
+[19:31:32] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[19:31:36] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[19:31:37] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[19:31:38] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[19:31:40] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[19:32:13] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Spectator Mode]
+[19:32:35] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[19:33:20] [Server thread/INFO]: Stopping the server
+[19:33:20] [Server thread/INFO]: Stopping server
+[19:33:20] [Server thread/INFO]: Saving players
+[19:33:20] [Server thread/INFO]: ZZRoyers_V2 lost connection: Server closed
+[19:33:20] [Server thread/INFO]: ZZRoyers_V2 left the game
+[19:33:20] [Server thread/INFO]: Saving worlds
+[19:33:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:33:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:33:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:33:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:33:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:33:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:33:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
