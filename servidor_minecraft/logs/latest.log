@@ -52,3 +52,14 @@
 [17:30:36] [Server thread/INFO]: ZZRoyers_V2 lost connection: Disconnected
 [17:30:36] [Server thread/INFO]: ZZRoyers_V2 left the game
 [17:31:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:36:02] [Server thread/INFO]: Stopping the server
+[17:36:02] [Server thread/INFO]: Stopping server
+[17:36:02] [Server thread/INFO]: Saving players
+[17:36:02] [Server thread/INFO]: Saving worlds
+[17:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
