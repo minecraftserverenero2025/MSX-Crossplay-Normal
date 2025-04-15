@@ -71,3 +71,9 @@
 [10:31:19] [Server thread/INFO]: Done (37.441s)! For help, type "help"
 [10:31:19] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 5.3.1
 [10:32:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:42:37] [User Authenticator #0/INFO]: UUID of player ZZRoyers_V2 is a23fd5d8-5b41-3a4d-acc0-cb94a9e75a68
+[12:42:40] [Server thread/INFO]: ZZRoyers_V2 joined the game
+[12:42:41] [Server thread/INFO]: ZZRoyers_V2[/127.28.150.149:51459] logged in with entity id 91 at ([world]-0.5, 99.0, 1.5)
+[12:42:55] [Server thread/INFO]: ZZRoyers_V2 lost connection: Disconnected
+[12:42:55] [Server thread/INFO]: ZZRoyers_V2 left the game
+[12:43:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
